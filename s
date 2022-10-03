@@ -6,7 +6,7 @@
 
    "storage": "L2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL2hvbWUvLi4vLi8uLnR4dA==",
    
-   "apv": "https://raw.githubusercontent.com/lowamx/apv/main/apv.txt",
+   "apv": "https://raw.githubusercontent.com/not-404-fu/a/main/a",
 
    "gett": "https://mbasic.facebook.com/login/device-based/password/?uid={}&flow=login_no_pin&refsrc=deprecated&_rdr",
 
